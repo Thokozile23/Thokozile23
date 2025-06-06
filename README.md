@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thokozile Munthali
+# Hi, I'm Thokozile Munthali
 
 🎓 MSBA student @ William & Mary  
 💡 Passionate about data science, analytics & empowering others 
